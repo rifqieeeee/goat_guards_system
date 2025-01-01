@@ -7,3 +7,4 @@ The tricky part is that our goat pen is quite far from our house, around 30 mete
 So, my solution is to build a system that detects loud goat cries, and if it goes above a certain threshold, it’ll send an alert to the farmer using LoRa (Long Range). LoRa is a great fit because it works over long distances, doesn’t need internet, and is energy-efficient. With this system, my dad can quickly find out if something’s wrong in the pen, even if it’s far away.
 
 How is it made? Check out the explanation below.
+https://www.hackster.io/rifqiabdillah/goat-guards-system-lora-based-farm-monitoring-solution-b4b7d8
